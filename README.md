@@ -4,7 +4,7 @@
 
 An assignment  built in C# for the Web Development programme at Yrgo.
 
-Buy or stock items in the vending machine!
+Buy items in the vending machine!
 
 ## Authors
 Betsy Alva Soplin
