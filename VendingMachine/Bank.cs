@@ -51,7 +51,7 @@ namespace VendingMachine
                     break;
                 }
                 
-                if(validAmount && value < 100 && value > 0)
+                if(validAmount && value <= 100 && value > 0)
                 {
                     Balance += value;
                     BankMessage("New balance after deposit: $");
